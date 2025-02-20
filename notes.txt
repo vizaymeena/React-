@@ -1,0 +1,13 @@
+React Router : is used to navigation to a component in a single page website as react is for single page purpose so jumping on another pages does not support that intend
+
+Page Navigation : like wise multipage website requires anchor tag to jump on next page which reloads the page and after that makes the intend to happen
+
+
+/ ------------------ Router Installation Command ------------------------ /
+
+---- >>  npm i react-router-dom
+
+Browser Router -   enbales routing. ( will function in main.jsx via Import )
+Routes         -   Defining route for navigation (Ex- Manger in a company defines its subordiantes role's )
+Route          -   page location
+{ All three are these components obtain by dom }
