@@ -11,3 +11,10 @@ Browser Router -   enbales routing. ( will function in main.jsx via Import )
 Routes         -   Defining route for navigation (Ex- Manger in a company defines its subordiantes role's )
 Route          -   page location
 { All three are these components obtain by dom }
+
+
+//
+Outlet is a component 
+In React Router DOM, the <Outlet> component is a placeholder that renders child routes within a parent route. It's a dynamic container that changes its content based on the current URL.  
+
+Import the outlet in a React page or component like this: import { Outlet } from 'react-router-dom'. 
